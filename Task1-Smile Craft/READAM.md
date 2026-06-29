@@ -1,5 +1,3 @@
-<img width="390" height="844" alt="Dental Services-2" src="https://github.com/user-attachments/assets/affb0ab6-c8a8-4260-9817-ccc405660720" /><img width="390" height="844" alt="Dental Services-2" src="https://github.com/user-attachments/assets/0d455d5c-d41f-4690-abd6-8b01656756ba" /><img width="390" height="844" alt="Login" src="https://github.com/user-attachments/assets/39aa0dfb-52c0-4c3b-8646-264400a349b1" /># Smile Craft - Dental Appointment App UI/UX
-
 This project was created as part of the Future Interns UI/UX Design Internship Program.
 
 ## Project Overview
