@@ -40,7 +40,6 @@ Prototyping
 Design System
 
 
-![Dental CRM Dashboard](<img width="1440" height="1024" alt="Dental CRM" src="https://github.com/user-attachments/assets/68ee4d1e-d6b0-43d4-8513-1eda66a0ad70" />
-)
+![Dental CRM Dashboard]<img width="1440" height="1024" alt="Dental CRM" src="https://github.com/user-attachments/assets/68ee4d1e-d6b0-43d4-8513-1eda66a0ad70" />
 
 🔗 Figma Design:https://www.figma.com/design/1giojCXttYzupEV8EFgTHQ/Dental-CRM?node-id=53-140&t=EMpSii1LRDkIbdsu-1
