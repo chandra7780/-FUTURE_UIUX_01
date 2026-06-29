@@ -48,38 +48,31 @@ https://www.figma.com/proto/1giojCXttYzupEV8EFgTHQ/Smile-Craft?node-id=1-2&p=f&t
 ## Screenshots
 
 ### Smile Craft
-![Smile Craft](<img width="3112" height="844" alt="Smile Craft" src="https://github.com/user-attachments/assets/431bdfad-4ebb-47a1-b53a-9fa5cd02754b" />
-)
+![Smile Craft]<img width="3112" height="844" alt="Smile Craft" src="https://github.com/user-attachments/assets/431bdfad-4ebb-47a1-b53a-9fa5cd02754b" />
 
 ### Splash Screen
-![Splash Screen](<img width="390" height="844" alt="Splash Screen" src="https://github.com/user-attachments/assets/c036ab06-2c85-4701-9e8e-445fc0d3a6ce" />
-)
+
+![Splash Screen]<img width="390" height="844" alt="Splash Screen" src="https://github.com/user-attachments/assets/c036ab06-2c85-4701-9e8e-445fc0d3a6ce" />
 
 ### Login
 
-![Login](<img width="390" height="844" alt="Login" src="https://github.com/user-attachments/assets/e1b86a99-f851-464d-a52f-4ef56adfbc16" />
-)
+![Login]<img width="390" height="844" alt="Login" src="https://github.com/user-attachments/assets/e1b86a99-f851-464d-a52f-4ef56adfbc16" />
 
 ### Choose Service
 
-![Choose Service](<img width="390" height="844" alt="Choose Service" src="https://github.com/user-attachments/assets/84053a20-b405-4d93-b752-3fb010d760c4" />
-)
+![Choose Service]<img width="390" height="844" alt="Choose Service" src="https://github.com/user-attachments/assets/84053a20-b405-4d93-b752-3fb010d760c4" />
 
 ###  Dental Services-1
 
-
-![Dental Services-1](<img width="390" height="844" alt="Dental Services-1" src="https://github.com/user-attachments/assets/2f609b41-dd49-4428-8734-0a22191030c2" />
-)
+![Dental Services-1]<img width="390" height="844" alt="Dental Services-1" src="https://github.com/user-attachments/assets/2f609b41-dd49-4428-8734-0a22191030c2" />
 
 ### Dental Services-2
 
-![Dental Services-2](<img width="390" height="844" alt="Dental Services-2" src="https://github.com/user-attachments/assets/5c8f758a-ade8-4cf9-a0c9-dce68a5231f4" />
-)
+![Dental Services-2]<img width="390" height="844" alt="Dental Services-2" src="https://github.com/user-attachments/assets/5c8f758a-ade8-4cf9-a0c9-dce68a5231f4" />
 
 ### Select Date & Time
 
-![Select Date & Time](<img width="390" height="844" alt="Select Date   Time" src="https://github.com/user-attachments/assets/3e62934c-7dc0-433a-bbbf-be86a2482028" />
-)
+![Select Date & Time]<img width="390" height="844" alt="Select Date   Time" src="https://github.com/user-attachments/assets/3e62934c-7dc0-433a-bbbf-be86a2482028" />
 
 ### Booking Confirmation
 
